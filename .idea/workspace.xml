@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="dc717f1f-a45f-4158-854a-fad23f9ee992" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/REF/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/REF/6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/REF/7.webp" beforeDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,7 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -53,6 +57,23 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/josec/Documents/Git/WEB_CLINICA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.30804598&quot;
+  }
+}</component>
+>>>>>>> Stashed changes
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css" />
@@ -72,6 +93,7 @@
       <workItem from="1659717557300" duration="31000" />
       <workItem from="1666270988972" duration="186000" />
       <workItem from="1666304470838" duration="836000" />
+<<<<<<< Updated upstream
       <workItem from="1669504731116" duration="958000" />
       <workItem from="1669580176666" duration="80000" />
       <workItem from="1669580307146" duration="28000" />
@@ -86,6 +108,18 @@
       <option name="project" value="LOCAL" />
       <updated>1669582441036</updated>
     </task>
+=======
+      <workItem from="1669504731116" duration="1847000" />
+      <workItem from="1669744844812" duration="607000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1669549919090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669549919090</updated>
+    </task>
+>>>>>>> Stashed changes
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
