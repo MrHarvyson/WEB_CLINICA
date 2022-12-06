@@ -44,16 +44,18 @@ body{
 }
 
 .datos{
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
     border-top: none;
     border-right: none;
     border-left: none;
     border-bottom: solid 1px grey;
     margin: 0px 50px;
-    justify-content: right;
+    background: #c07a8f;
 }
 
 .datos1{
+    background:red;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     justify-items: center;
