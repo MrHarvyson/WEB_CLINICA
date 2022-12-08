@@ -369,7 +369,7 @@ input{
     .corte{
         border-width: 0 0 15vh 100vw;
     }
-    .cabecera{
+    .headboard{
         height: 60vh;
     }
     .ciclosfp{
@@ -396,7 +396,7 @@ input{
     .intro span{
         font-size: 2.5rem;
     }
-    .cabecera{
+    .headboard{
         background: none;
         height: 300px;
     }
