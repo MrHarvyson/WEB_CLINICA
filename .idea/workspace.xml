@@ -4,42 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc717f1f-a45f-4158-854a-fad23f9ee992" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="dc717f1f-a45f-4158-854a-fad23f9ee992" name="Changes" comment="cambios 01">
+      <change afterPath="$PROJECT_DIR$/REF/CC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/implantes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoImg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO.html" beforeDir="false" afterPath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/cabecera.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/css2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/css2_002.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/AuthenticationService.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/ViewportInfoService.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/ViewportInfoService_002.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/a.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/a_002.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/controls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/css_002.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/init_embed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/kh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/onion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/overlay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/search_impl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/vt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/vt_002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/vt_003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/vt_004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/vt_005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/vt_006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/vt_007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/vt_008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/embed_data/vt_009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REF/CLÍNICA DENTAL MORENO_files/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/cabecera.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/headboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/headboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/headboard.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -75,6 +47,9 @@
   </component>
   <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\josec\Documents\Git\WEB_CLINICA" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
   <component name="ProjectId" id="2C2P2qiPQHOAguGzn148nV83BEv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -82,21 +57,25 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/josec/Documents/Git/WEB_CLINICA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/josec/Documents/Git/WEB_CLINICA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\josec\Documents\Git\WEB_CLINICA\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -123,6 +102,7 @@
       <workItem from="1670368410575" duration="317000" />
       <workItem from="1670428846840" duration="1303000" />
       <workItem from="1670526205136" duration="4108000" />
+      <workItem from="1670530421724" duration="19914000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1669582441036</created>
@@ -131,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669582441036</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cambios 01">
+      <created>1670530447106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670530447106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +136,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="cambios 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios 01" />
   </component>
 </project>
