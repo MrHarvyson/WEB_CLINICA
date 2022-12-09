@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc717f1f-a45f-4158-854a-fad23f9ee992" name="Changes" comment="" />
+    <list default="true" id="dc717f1f-a45f-4158-854a-fad23f9ee992" name="Changes" comment="cambios 01">
+      <change afterPath="$PROJECT_DIR$/REF/CC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/implantes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logoImg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/headboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/headboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +31,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\josec\Documents\Git\WEB_CLINICA" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
   <component name="ProjectId" id="2C2P2qiPQHOAguGzn148nV83BEv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,19 +59,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "G:/Mi unidad/PROGRAMACION/WEB_CLINICA",
+    "last_opened_file_path": "C:/Users/josec/Documents/Git/WEB_CLINICA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\josec\Documents\Git\WEB_CLINICA\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,10 +92,53 @@
       <workItem from="1659717557300" duration="31000" />
       <workItem from="1666270988972" duration="186000" />
       <workItem from="1666304470838" duration="836000" />
+      <workItem from="1669504731116" duration="958000" />
+      <workItem from="1669580176666" duration="80000" />
+      <workItem from="1669580307146" duration="28000" />
+      <workItem from="1669580375421" duration="156000" />
+      <workItem from="1669580596537" duration="421000" />
+      <workItem from="1669581074815" duration="1101000" />
+      <workItem from="1669595453893" duration="3120000" />
+      <workItem from="1670368410575" duration="317000" />
+      <workItem from="1670428846840" duration="1303000" />
+      <workItem from="1670526205136" duration="4108000" />
+      <workItem from="1670530421724" duration="19914000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1669582441036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669582441036</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cambios 01">
+      <created>1670530447106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670530447106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="." />
+    <MESSAGE value="cambios 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios 01" />
   </component>
 </project>
