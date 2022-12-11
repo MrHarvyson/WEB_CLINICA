@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc717f1f-a45f-4158-854a-fad23f9ee992" name="Changes" comment="cambios 01">
-      <change afterPath="$PROJECT_DIR$/REF/CC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/implantes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoImg.png" afterDir="false" />
+    <list default="true" id="dc717f1f-a45f-4158-854a-fad23f9ee992" name="Changes" comment="cambios 02">
+      <change afterPath="$PROJECT_DIR$/REF/logo.ai" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/headboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/headboard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +60,10 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDK Location",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -102,7 +99,9 @@
       <workItem from="1670368410575" duration="317000" />
       <workItem from="1670428846840" duration="1303000" />
       <workItem from="1670526205136" duration="4108000" />
-      <workItem from="1670530421724" duration="19914000" />
+      <workItem from="1670530421724" duration="20522000" />
+      <workItem from="1670621246682" duration="262000" />
+      <workItem from="1670625763888" duration="263000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1669582441036</created>
@@ -118,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670530447106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cambios 02">
+      <created>1670584159892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670584159892</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cambios 02">
+      <created>1670586264210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670586264210</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,11 +147,27 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="." />
     <MESSAGE value="cambios 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios 01" />
+    <MESSAGE value="cambios 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios 02" />
   </component>
 </project>
