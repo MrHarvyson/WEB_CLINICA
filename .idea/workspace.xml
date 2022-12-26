@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc717f1f-a45f-4158-854a-fad23f9ee992" name="Changes" comment="cambios 02" />
+    <list default="true" id="dc717f1f-a45f-4158-854a-fad23f9ee992" name="Changes" comment="cambios 03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +101,7 @@
       <workItem from="1670625763888" duration="263000" />
       <workItem from="1671330378139" duration="64000" />
       <workItem from="1671662757279" duration="49000" />
+      <workItem from="1672002099690" duration="1643000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1669582441036</created>
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670586264210</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cambios 03">
+      <created>1672070386390</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672070386390</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +175,7 @@
     <MESSAGE value="." />
     <MESSAGE value="cambios 01" />
     <MESSAGE value="cambios 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios 02" />
+    <MESSAGE value="cambios 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios 03" />
   </component>
 </project>
